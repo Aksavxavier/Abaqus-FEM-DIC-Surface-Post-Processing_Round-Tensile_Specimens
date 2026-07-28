@@ -1,0 +1,5 @@
+# Abaqus output databases are too large for standard GitHub storage.
+*.odb
+
+# Abaqus transient/lock files.
+*.lck

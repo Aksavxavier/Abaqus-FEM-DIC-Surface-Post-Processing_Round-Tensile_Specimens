@@ -15,8 +15,6 @@ Important axial quantities:
 
 Run using:
     abaqus python check_RB_L0_25_Y_MBW_odb.py
-
-The ODB and this script must be located in the same folder.
 """
 
 from __future__ import print_function
